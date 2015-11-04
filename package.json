@@ -1,5 +1,5 @@
 {
-  "name": "mongoose-html",
+  "name": "mongoose-html-2",
   "version": "0.0.1",
   "description": "Adds schema type \"html\" to mongoose to provie sanitized html.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/homerquan/mongoose-html.git"
+    "url": "https://github.com/byndcivilization/mongoose-html.git"
   },
   "keywords": [
     "mongoose",
@@ -23,10 +23,10 @@
   "devDependencies": {
     "mocha": "1.9.x",
     "should": "*",
-    "mongoose": "3.x"
+    "mongoose": "4.x"
   },
   "peerDependencies": {
-    "mongoose": "3.x"
+    "mongoose": "4.x"
   },
   "dependencies": {
     "sanitize-html": "^1.4.3"
