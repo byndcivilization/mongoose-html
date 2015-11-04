@@ -23,10 +23,10 @@
   "devDependencies": {
     "mocha": "1.9.x",
     "should": "*",
-    "mongoose": "4.x"
+    "mongoose": "^4.x"
   },
   "peerDependencies": {
-    "mongoose": "4.x"
+    "mongoose": "^4.x"
   },
   "dependencies": {
     "sanitize-html": "^1.4.3"
