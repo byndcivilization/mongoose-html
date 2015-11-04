@@ -1,6 +1,6 @@
 {
   "name": "mongoose-html-2",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Adds schema type \"html\" to mongoose to provie sanitized html.",
   "main": "index.js",
   "scripts": {
